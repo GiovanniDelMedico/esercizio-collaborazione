@@ -1,2 +1,4 @@
 Ciao dal branch main
 modifica dal branch funzione A
+modifica del branch funzione B
+
